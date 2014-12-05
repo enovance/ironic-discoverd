@@ -263,6 +263,9 @@ See `1.0.0 release tracking page`_ for details.
 **Misc**
 
 * Support for OpenStack Kilo release - see `Kilo state machine blueprint`_.
+* Experimental plugin ``edeploy`` to use with
+  `eDeploy hardware detection and classification utilities
+  <https://pypi.python.org/pypi/hardware>`_.
 * Create ``CONTRIBUTING.rst``.
 
 .. _1.0.0 release tracking page: https://bugs.launchpad.net/ironic-discoverd/+milestone/1.0.0
